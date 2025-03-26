@@ -22,7 +22,7 @@ class ProcessMonitor:
     def update_processes(self):
         # Clear previous data
         for row in self.tree.get_children():
-      
+                self.tree.delete(row)
 
         # Fetch and display process data
         for proc in psutil.process_iter(['pid', 'name', 'cpu_percent', 'memory_info']):
