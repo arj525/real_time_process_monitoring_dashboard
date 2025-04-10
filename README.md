@@ -1,3 +1,5 @@
+
+
 🖥️ Real-Time Process Monitoring Dashboard 🚀
 The Real-Time Process Monitoring Dashboard is an advanced tool designed to track and display system processes dynamically. It provides real-time insights into CPU usage, memory consumption, and process states, helping administrators manage processes efficiently and identify potential performance bottlenecks.
 
@@ -14,14 +16,17 @@ Programming Language: Python 🐍
 Libraries & Tools: Tkinter, psutil, Matplotlib
 
 Version Control: Git & GitHub
-
+only for Visualizing
 ![Screenshot 2025-04-11 020743](https://github.com/user-attachments/assets/251d25ac-8aef-4a95-a566-fa55d4824f2f)
 
 
 
-Real-Time Process Monitoring Dashboard
-A web application that provides real-time monitoring of system resources and processes. This dashboard allows users to view CPU usage, memory consumption, and a list of running processes with the ability to terminate them.
+Real-Time Process Monitoring Dashboard 
 
+
+
+A web application that provides real-time monitoring of system resources and processes. This dashboard allows users to view CPU usage, memory consumption, and a list of running processes with the ability to terminate them.
+fully working.
 Features
 Real-time system information monitoring
 CPU usage with per-core details
